@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iPortfolio/static/css/main.a52f5468.chunk.css",
+    "main.js": "/iPortfolio/static/js/main.290ea6a1.chunk.js",
+    "main.js.map": "/iPortfolio/static/js/main.290ea6a1.chunk.js.map",
+    "runtime-main.js": "/iPortfolio/static/js/runtime-main.3a9d48ae.js",
+    "runtime-main.js.map": "/iPortfolio/static/js/runtime-main.3a9d48ae.js.map",
+    "static/js/2.14480b90.chunk.js": "/iPortfolio/static/js/2.14480b90.chunk.js",
+    "static/js/2.14480b90.chunk.js.map": "/iPortfolio/static/js/2.14480b90.chunk.js.map",
+    "index.html": "/iPortfolio/index.html",
+    "precache-manifest.9aeae5360d29ed577d4ec1251c57751a.js": "/iPortfolio/precache-manifest.9aeae5360d29ed577d4ec1251c57751a.js",
+    "service-worker.js": "/iPortfolio/service-worker.js",
+    "static/css/main.a52f5468.chunk.css.map": "/iPortfolio/static/css/main.a52f5468.chunk.css.map",
+    "static/js/2.14480b90.chunk.js.LICENSE.txt": "/iPortfolio/static/js/2.14480b90.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/iPortfolio/static/media/icofont.f6ab04ae.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a9d48ae.js",
+    "static/js/2.14480b90.chunk.js",
+    "static/css/main.a52f5468.chunk.css",
+    "static/js/main.290ea6a1.chunk.js"
+  ]
+}
